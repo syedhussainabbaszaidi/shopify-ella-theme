@@ -1,1 +1,0 @@
-# shopify-ella-theme
